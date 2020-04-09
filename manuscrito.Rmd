@@ -23,34 +23,6 @@ fontfamily: mathpazo
 fontsize: 11pt
 # spacing: double
 bibliography: bibliography.bib 
-
-@article{villalobos2009evolución
-  title={ Evolución histórica de la línea de costa en el sector meridional de la bahía de Cádiz},
-  author={Carlos Alonso Villalobos, C., F. Javier Gracia Prieto y Javier
-Benavente Gonzáles, J.},
-  journal={Instituto Andaluz del Patrimonio Histórico. Centro de Arqueología Subacuática. },
-  number={11},
-  pages={14},
-  year={2009},
-  publisher={Instituto Andaluz del Patrimonio Histórico. Centro de Arqueología Subacuática. }
-}
-
-
-
-@article{Codignotto1997geomorfología,
-  title={Geomorfología y dinámica costera},
-  author={Codignotto, J},
-  year={1997},
-  publisher={Instituto Nacional de Investigación y Desarrollo Pesquero (INIDEP): Mar del ~…}
-}
-
-@article{depedraza1996geomorfología,
-  title={Geomorfología, Princípios, método y Aplicaciones},
-  author={Pedraza Ginsanz, J},
-  year={1996},
-  publisher={Editorial Rueda}
-}
-
 # csl: plos-one.csl
 csl: apa.csl
 header-includes:
@@ -61,14 +33,13 @@ header-includes:
 
 # Introducción
 
-En el sentido morfodinámico la costa es aquella franja de tierra que, penetrando penetrando bajo las aguas en parte y en una cierta profundidad, muestra la influencia directa del medio acuático.Pues este medio se asocia a continuos cambios, tanto a escala geológica como histórica ancestral y reciente, el origen de estas transformaciones es principalemnte la oscilación de aguas marinas (De Pedraza, 1996).La confluencia entre la zona marina y la terrestre produce unos fenómenos que tienden afectar las costas, conocidos como procesos físicos litorales.Entre estos se distingue los de tipo marítimo (oleaje, corrientes, mareas) geológios (tsunamis),climáticos (vientos, huracanes) y continentales (erosión hídrica y depósito de sedimentos fluviales).
+En el sentido morfodinámico, la costa es aquella franja de tierra que, penetrando penetrando bajo las aguas en parte y en una cierta profundidad, muestra la influencia directa del medio acuático.Pues este medio se asocia a continuos cambios, tanto a escala geológica como histórica ancestral y reciente, el origen de estas transformaciones es principalemnte la oscilación de aguas marinas [@depedraza1996geomorfologia]. La convergencia entre la zona marina y la terrestre produce unos fenómenos que tienden a afectar las costas, conocidos como procesos físicos litorales. Entre estos, se distinguen los de tipo marítimo (oleaje, corrientes, mareas) geológicos (tsunamis), climáticos (vientos, huracanes) y continentales (erosión hídrica y depósito de sedimentos fluviales).
 
-Los cambios más significativos son producidos por la crecida del nivel del mar en los últimos 19,000 años así como la presión de las olas que provoca el desgaste y sedimentación las costas. Esta acción hidráulica provoca una modelación fisiográfica, que de acuerdo a esto, los tipos de costa establecidos por Pedraza (1996) son de ría, de fiordo, de cala, de isla barrera, arenosas o playas estabilizadas, de delta entre otras. Su clasificación según Codignotto (1997) son de pogradación, estacionaria y retrogradación.
+Los cambios más significativos son producidos por la crecida del nivel del mar en los últimos 19,000 años, así como por la presión de las olas, que provoca el desgaste y sedimentación de las costas. Esta acción hidráulica provoca una modelación que, en función de su fisiografía se clasifican en: de ría, de fiordo, de cala, de isla barrera, arenosas o playas estabilizadas, de delta entre otras [@depedraza1996geomorfologia]. Por otra parte, según su dinámica de cambio, @Codignotto1997geomorfologia las clasifica en "de progradación", "estacionaria" y "de retrogradación".
 
-Dada estas características dinámicas que alteran la morfología litoral, es importante estudiar su geomorfología, ya que permite analizar las modificaciones a escala histórica.Las investigaciones realizadas en la playa Najayo ubicada en la sección de Najayo, municipio San Gregorio de Nigua, provincia San Cristobal, región Valdesia, sur de Republica Dominicada, entre 18º17'40"latitud Norte y 70º06'02"lóngitud Sur datan de la era Cenozoica, periodo Cuaternario entre el Eoceno y el Mioceno(ver figura 1).En esta playa litológicamente predominan las arena y gravas bioclasticas formando el cordón litoral, además de coglomerado, gravas, arenas como fondo de valle y calizas arrecifal, calciruditas y calcarenitas de acuerdo con el mapa geológico de la Isla.
+Dadas estas características dinámicas que alteran el litoral, es importante estudiar su geomorfología, ya que permite analizar las modificaciones en el tiempo y el espacio. En esta investigación se eligió a la playa Najayo como objeto de estudio de dinámica litoral. Se encuentra ubicada en la sección de Najayo, municipio San Gregorio de Nigua, provincia San Cristobal, región Valdesia, sur de Republica Dominicana, entre 18º17'40"latitud Norte y 70º06'02"lóngitud Sur
 
-
-
+Los estudios de la misma, aunque escasos, indican que las rocas del entorno son calizas arrecifales, calciruditas y calcarenitas de la Formación La Isabela (ver figura 1). Específicamente en la playa litológicamente predominan las arena y gravas bioclasticas formando un cordón litoral, además de coglomerado, gravas, arenas como fondo de valle y calizas arrecifal, calciruditas y calcarenitas de acuerdo con el mapa geológico de la Isla.
 
 
 
