@@ -12,16 +12,45 @@ title: |
         | Subtítulo
         | Subtítulo
 author:
-- name: Tali tali tali
+- name: TCarolain Pérez Ureña
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
-abstract: "Mi resumen"
-keywords: "palabra clave 1, palabra clave 2"
+abstract: "En este trabajo se ha estudiado la transformación de la linea costera en playa Najayo, San Cristóbal sur de República Dominicana analizando imágenes satelitales de años anteriores y comparándolas con imágenes aéreas actuales. Para ello, se examinaron las fotos de los últimos 30 años  para ver evidencia del cambio en el trazado de la linea. Los fenomenos atmosfericos, crecida del nivel del mar y la actividad humana han sido los factores determinantes en dicho cambio."
+
+keywords: "Linea de costa "
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
 fontfamily: mathpazo
 fontsize: 11pt
 # spacing: double
-bibliography: bibliography.bib
+bibliography: bibliography.bib 
+
+@article{villalobos2009evolución
+  title={ Evolución histórica de la línea de costa en el sector meridional de la bahía de Cádiz},
+  author={Carlos Alonso Villalobos, C., F. Javier Gracia Prieto y Javier
+Benavente Gonzáles, J.},
+  journal={Instituto Andaluz del Patrimonio Histórico. Centro de Arqueología Subacuática. },
+  number={11},
+  pages={14},
+  year={2009},
+  publisher={Instituto Andaluz del Patrimonio Histórico. Centro de Arqueología Subacuática. }
+}
+
+
+
+@article{Codignotto1997geomorfología,
+  title={Geomorfología y dinámica costera},
+  author={Codignotto, J},
+  year={1997},
+  publisher={Instituto Nacional de Investigación y Desarrollo Pesquero (INIDEP): Mar del ~…}
+}
+
+@article{depedraza1996geomorfología,
+  title={Geomorfología, Princípios, método y Aplicaciones},
+  author={Pedraza Ginsanz, J},
+  year={1996},
+  publisher={Editorial Rueda}
+}
+
 # csl: plos-one.csl
 csl: apa.csl
 header-includes:
@@ -31,6 +60,17 @@ header-includes:
 ---
 
 # Introducción
+
+En el sentido morfodinámico la costa es aquella franja de tierra que, penetrando penetrando bajo las aguas en parte y en una cierta profundidad, muestra la influencia directa del medio acuático.Pues este medio se asocia a continuos cambios, tanto a escala geológica como histórica ancestral y reciente, el origen de estas transformaciones es principalemnte la oscilación de aguas marinas (De Pedraza, 1996).La confluencia entre la zona marina y la terrestre produce unos fenómenos que tienden afectar las costas, conocidos como procesos físicos litorales.Entre estos se distingue los de tipo marítimo (oleaje, corrientes, mareas) geológios (tsunamis),climáticos (vientos, huracanes) y continentales (erosión hídrica y depósito de sedimentos fluviales).
+
+Los cambios más significativos son producidos por la crecida del nivel del mar en los últimos 19,000 años así como la presión de las olas que provoca el desgaste y sedimentación las costas. Esta acción hidráulica provoca una modelación fisiográfica, que de acuerdo a esto, los tipos de costa establecidos por Pedraza (1996) son de ría, de fiordo, de cala, de isla barrera, arenosas o playas estabilizadas, de delta entre otras. Su clasificación según Codignotto (1997) son de pogradación, estacionaria y retrogradación.
+
+Dada estas características dinámicas que alteran la morfología litoral, es importante estudiar su geomorfología, ya que permite analizar las modificaciones a escala histórica.Las investigaciones realizadas en la playa Najayo ubicada en la sección de Najayo, municipio San Gregorio de Nigua, provincia San Cristobal, región Valdesia, sur de Republica Dominicada, entre 18º17'40"latitud Norte y 70º06'02"lóngitud Sur datan de la era Cenozoica, periodo Cuaternario entre el Eoceno y el Mioceno(ver figura 1).En esta playa litológicamente predominan las arena y gravas bioclasticas formando el cordón litoral, además de coglomerado, gravas, arenas como fondo de valle y calizas arrecifal, calciruditas y calcarenitas de acuerdo con el mapa geológico de la Isla.
+
+
+
+
+
 
 \ldots
 
@@ -55,3 +95,15 @@ header-includes:
 \ldots
 
 # Referencias
+
+{ref-depedraza1996geomorfología}{}
+De Pedraza Gilsanz, J. (1996). Geomorfología, principios, Métodos y Aplicaciones. Porto Cristo:Editorial Rueda}
+
+{ref-villalobos2009evolución}{}
+ Villalobos, C. A., Gracia Prieto J., y 
+Benavente Gonzáles, J (2009). Evolución histórica de la línea de costa en el sector meridional de la bahía de Cádiz. \emph{Instituto Andaluz del Patrimonio Histórico. Centro de Arqueología Subacuática.}, (11), 14.
+
+
+{ref-codignotto1997geomorfologia}{}
+Codignotto, J. (1997). \emph{Geomorfología y dinámica costera}.
+
