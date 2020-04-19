@@ -41,9 +41,15 @@ Los cambios más significativos son producidos por la crecida del nivel del mar 
 Dada estas características dinámicas que alteran la morfología litoral, es importante estudiar su geomorfología, ya que permite analizar las modificaciones a escala histórica. En cuanto a las investigaciones realizadas en la playa Najayo,perteneciente al municipio de San Gregorio de Nigua, ubicada en la provincia San Cristóbal, en la región administrativa de Valdesia, sur de Republica Dominicana datan su formación en la era Cenozoica, periodo Cuaternario entre el Eoceno y el Mioceno. En esta playa litológicamente predominan las arena y gravas bioclasticas formando el cordón litoral, en el fondo de valle coglomerado, gravas, arenas, calizas arrecifal, calciruditas y calcarenitas de acuerdo con el mapa geológico Nacional.
 
 
+
+
+
 \ldots
 
 # Metodología
+El estudio se llevó acabo en la playa Najayo, en la comunidad Carlos Pinto perteneciente a la provincia San Cristóbal sur de la Republica Dominicana, se marcaron con aerosol siete puntos a lo largo de la playa, se utilizó un teodolito con un GPS para obtener las coordenadas exactas de los lugares marcados, se llenó un formularió con los datos referentes a la ubicación en la aplicación ODK collection. De esta misma forma se recolectaron muestras de sedimentos cuatro regiones de Najayo, una en cada extremo, indentificados como frente de Duna occidenta y frente de Duna oriental, una en la berna de la Duna y otra al frente del Antiguo Canal del arroyo Rolón. Asi mismo, las imágenes satelitales de la playa Ladsat  nueve años diferentes (1984-1998) fueron  delimitadas en Qgis, las imágenes satelitales tomadas entre nueve diferentes años  para poder compararlas con las fotos captadas por el dron en este estudio.
+
+
 
 \ldots
 
@@ -64,11 +70,4 @@ Dada estas características dinámicas que alteran la morfología litoral, es im
 \ldots
 
 # Referencias
-
-Pedraza Gilsanz, J. D. (1996). Geomorfología: principios, métodos y aplicaciones (No. 551.4 PED).
-
-Alonso Villalobos, C., García Prieto, F. J., & Benavente, J. (2009). Evolución histórica de la línea de costa en el sector meridional de la Bahía de Cádiz.
-
-Codignotto, J. (1997). Geomorfología y dinámica costera.
-
 
